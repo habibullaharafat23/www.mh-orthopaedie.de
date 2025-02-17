@@ -5,12 +5,12 @@ var categoryText = ["Notwendig", "Präferenzen", "Statistiken", "Marketing", "Ni
 
 var learnMoreText = "Learn more about the provider";
 
-var topSectionText = ["Zustimmung", "Details", "Um"];
+var topSectionText = ["Zustimmung", "Details", "Informationen"];
 
 var firstSectionText = "Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und unseren Datenverkehr zu analysieren. Wir geben Informationen über Ihre Nutzung unserer Website auch an unsere Partner für soziale Medien, Werbung und Analysen weiter, die diese möglicherweise mit anderen Informationen kombinieren, die Sie ihnen bereitgestellt haben oder die sie im Rahmen Ihrer Nutzung ihrer Dienste gesammelt haben.";
 var thirdSectionText = "Cookies sind kleine Textdateien, die von Websites verwendet werden, um das Benutzererlebnis zu verbessern. Laut Gesetz können wir Cookies auf Ihrem Gerät speichern, wenn diese für den Betrieb dieser Website unbedingt erforderlich sind. Für alle anderen Arten von Cookies benötigen wir Ihre Zustimmung. Dies bedeutet, dass als notwendig eingestufte Cookies gemäß Art. 6 Abs. 1 lit. f DSGVO verwaltet werden. Alle anderen Cookies, beispielsweise in den Kategorien „Einstellungen“ und „Marketing“, werden gemäß Artikel 6 Absatz 1 Buchstabe a DSGVO verwaltet. Diese Website verwendet verschiedene Arten von Cookies. Einige Cookies werden von Drittanbietern gesetzt, die auf unseren Seiten erscheinen.";
 
-var bannerButtonsTexts = ["Akzeptieren", "Abfall", "Anpassen", "Speichern"];
+var bannerButtonsTexts = ["Akzeptieren", "Ablehnen", "Anpassen", "Speichern"];
 
 var categoryDescriptionsText = {
 	Necessary: {
